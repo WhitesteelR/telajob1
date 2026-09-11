@@ -167,7 +167,7 @@ function Index() {
                     <div className="step-icon">
                       <svg viewBox="0 0 24 24" fill="none" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
                         <circle cx="12" cy="12" r="9" />
-                      <polygon points="10 8 16 12 10 16 10 8" />
+                        <polygon points="10 8 16 12 10 16 10 8" />
                       </svg>
                     </div>
                     <div className="step-body">
